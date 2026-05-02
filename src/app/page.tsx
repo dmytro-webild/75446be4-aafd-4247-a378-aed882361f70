@@ -61,7 +61,7 @@ export default function LandingPage() {
       description="Enterprise-grade messaging platform designed for scale across the continent. Reliable, fast, and secure SMS API."
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/fantasy-house-moon-illustration_23-2151627870.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fantasy-house-moon-illustration_23-2151627870.jpg?_wi=1",
           imageAlt: "Dashboard UI",
         },
         {
@@ -136,7 +136,7 @@ export default function LandingPage() {
             },
           ],
           reverse: false,
-          imageSrc: "http://img.b2bpic.net/free-photo/fantasy-house-moon-illustration_23-2151627870.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fantasy-house-moon-illustration_23-2151627870.jpg?_wi=2",
           imageAlt: "code editor software interface",
         },
       ]}
